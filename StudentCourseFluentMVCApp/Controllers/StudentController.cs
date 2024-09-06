@@ -72,6 +72,8 @@ namespace StudentCourseFluentMVCApp.Controllers
 
         public ActionResult Edit(Student student)
         {
+            if (student.Course.Id == 0)
+                ModelState.Remove("Course.Id");
             if (ModelState.IsValid)
             {
                 using (var session = NHibernateHelper.CreateSession())
