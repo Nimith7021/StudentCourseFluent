@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentDB/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentDB/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\mappings\\coursemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\mappings\\coursemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\studentcoursefluentmvcapp\\studentcoursefluentmvcapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\mappings\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\mappings\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\validators\\specialcharactervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\validators\\specialcharactervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\views\\shared\\displaytemplates\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\views\\shared\\displaytemplates\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\views\\shared\\editortemplates\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\views\\shared\\editortemplates\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\studentcoursefluentmvcapp\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA639DD-21F1-49CF-A643-B52A688C767E}|StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp.csproj|solutionrelative:studentcoursefluentmvcapp\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Global.asax.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:57:31.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpecialCharacterValidation.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Validators\\SpecialCharacterValidation.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Validators\\SpecialCharacterValidation.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Validators\\SpecialCharacterValidation.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Validators\\SpecialCharacterValidation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:03:15.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Shared\\DisplayTemplates\\Course.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Views\\Shared\\DisplayTemplates\\Course.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Shared\\DisplayTemplates\\Course.cshtml",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Views\\Shared\\DisplayTemplates\\Course.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:59:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:57:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:09:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Shared\\EditorTemplates\\Course.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Views\\Shared\\EditorTemplates\\Course.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Shared\\EditorTemplates\\Course.cshtml",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Views\\Shared\\EditorTemplates\\Course.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:34:03.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:21:43.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:16:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentDB/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-04T14:14:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentDB/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-04T14:13:09.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Data\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:54:45.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Mappings\\CourseMap.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Mappings\\CourseMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Mappings\\CourseMap.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Mappings\\CourseMap.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:50:01.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Mappings\\StudentMap.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Mappings\\StudentMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Mappings\\StudentMap.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Mappings\\StudentMap.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:43:41.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Models\\Course.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Models\\Course.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:32:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:32:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:30:10.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentCourseFluentMVCApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\StudentCourseFluentMVCApp\\StudentCourseFluentMVCApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentCourseFluentMVCApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wCIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:30:06.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
